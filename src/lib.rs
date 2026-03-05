@@ -1,5 +1,5 @@
 use anchor_lang::prelude::*;
-declare_id!("7MbEoUqSn4AhBywrTKTe5ssEtpw8XrRS7YmqP1MHRvkL");
+declare_id!("");
 
 #[program]
 pub mod biblioteca {
