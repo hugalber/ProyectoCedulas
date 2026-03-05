@@ -1,4 +1,4 @@
-# Biblioteca en Solana
+# Proyecto Cédulas Profesionales
 
 ![banner](./images/banner-biblioteca.jpg)
 
